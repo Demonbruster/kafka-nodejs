@@ -1,0 +1,13 @@
+{
+  "name": "messaging-app",
+  "version": "1.0.0",
+  "description": "messaging service by kafka",
+  "main": "app.js",
+  "author": "M Suahil F",
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  },
+  "type": "module"
+
+}
