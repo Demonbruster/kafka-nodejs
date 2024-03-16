@@ -1,4 +1,4 @@
-## Sending notification in real time with help of Kafka
+## Sending notification in real time with the help of Kafka
 
 ### Setup in your local
 - Make sure you have install docker in your machine
